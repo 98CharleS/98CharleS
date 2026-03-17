@@ -34,5 +34,4 @@ I am a developer focused on building functional tools that bridge the gap betwee
 
 ### 📬 Connect with me
 
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Here]
+* **LinkedIn:** www.linkedin.com/in/karol-sojkowski/
