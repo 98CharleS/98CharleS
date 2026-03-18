@@ -20,7 +20,7 @@ I am a developer focused on building functional tools that bridge the gap betwee
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Polish Intent Classification](https://github.com/98CharleS/Polish-Intent-Classification-HerBERT)** | Fine-tuned HerBERT model capable of recognizing 13 user intents with high precision. | Python, PyTorch, Transformers |
-| **[eZam Data Extractor](https://github.com/98CharleS/eZam-Database-extraction)** | Automated tool for scraping and structuring tender data from the official Polish eZamówienia database. | Python, Scraping Tools |
+| **[eZam Data Extractor](https://github.com/98CharleS/eZam-Database-extraction)** | Automated tool for extracting and structuring public tender data from the eZamówienia API — with pagination, validation and CSV export. | Python, Requests, Pandas |
 | **[AI Content Architect](https://github.com/98CharleS/OpenAI-API)** | A tool that transforms raw text into structured, SEO-friendly HTML with AI-generated image prompts. | OpenAI API, Python, HTML |
 
 ---
