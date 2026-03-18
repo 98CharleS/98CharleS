@@ -25,13 +25,6 @@ I am a developer focused on building functional tools that bridge the gap betwee
 
 ---
 
-### 📊 GitHub Stats
-
-![98CharleS's GitHub stats](https://github-readme-stats.vercel.app/api?username=98CharleS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98CharleS&layout=compact&theme=radical)
-
----
-
 ### 📬 Connect with me
 
 * **LinkedIn:** www.linkedin.com/in/karol-sojkowski/
