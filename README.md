@@ -10,7 +10,7 @@ I am a developer focused on building functional tools that bridge the gap betwee
 
 * **Languages:** Python (Primary), SQL, HTML/CSS
 * **AI & NLP:** PyTorch, Hugging Face (Transformers), HerBERT, OpenAI API
-* **Data & Automation:** BeautifulSoup, Selenium, Requests, Database Management
+* **Data & Automation:** Requests, Database Management
 * **Tools:** Git, Docker, Linux
 
 ---
