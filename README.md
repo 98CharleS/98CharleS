@@ -1,6 +1,4 @@
-# Hi there, I'm 98CharleS 👋
-
-### Python Developer / Data Analyst
+# Python Developer / Data Analyst
 
 I am a developer focused on building functional tools that bridge the gap between raw data and actionable insights. My work ranges from fine-tuning NLP models for the Polish language to automating complex data extraction processes.
 
